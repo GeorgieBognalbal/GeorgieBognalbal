@@ -1,40 +1,63 @@
-
-
 ```python
 class Developer:
+
     name = "Georgie"
     role = "Computer Science Student"
 
     interests = [
+        "Building Things",
         "Backend Development",
-        "APIs",
-        "AI",
+        "AI & Technology",
     ]
 
     motto = "Learn by building."
 ```
+<br>
+
+## `# Technologies I Use`
 
 ```python
-🛠️ // Tech Stack
-```
+languages = [
+    Python,
+    Java,
+    CSharp,
+    JavaScript,
+    HTML,
+    CSS,
+]
 
+tools = [
+    Git,
+    GitHub,
+    MySQL,
+    MongoDB,
+]
+```
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 </p>
 
-```python
-🌐 // Find Me
-```
-<p align="center"> <a href="https://www.facebook.com/georgiericardo.bognalbal"> <img src="https://cdn.simpleicons.org/facebook/1877F2" width="42" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/cjorgie_/"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="42" /> </a> &nbsp;&nbsp;&nbsp; <a href="mailto:georgiebognalbal0@gmail.com"> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" /> </a> </p> <br>
+---
 
+## `$ connect --with Georgie`
 
+<p align="center">
+  <a href="https://www.facebook.com/georgiericardo.bognalbal">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>Built with curiosity, caffeine, and questionable debugging decisions.</sub>
+</p>
