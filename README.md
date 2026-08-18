@@ -12,32 +12,13 @@ class Developer:
 
     motto = "Learn by building."
 ```
-<br>
 
 ## `# Technologies I Use`
-
-```python
-languages = [
-    Python,
-    Java,
-    CSharp,
-    JavaScript,
-    HTML,
-    CSS,
-]
-
-tools = [
-    Git,
-    GitHub,
-    MySQL,
-    MongoDB,
-]
-```
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,js,html,css" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,git,github,vscode" />
 </p>
 
 ---
@@ -56,8 +37,3 @@ tools = [
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  <sub>Built with curiosity, caffeine, and questionable debugging decisions.</sub>
-</p>
